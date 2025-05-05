@@ -1,0 +1,30 @@
+.not-found-container {
+    text-align: center;
+    padding: 100px 20px;
+    color: #333;
+}
+  
+.not-found-container h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+  
+.not-found-container p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+  
+.back-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bfc;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+  
+.back-link:hover {
+    background-color: #005bb5;
+}
+  
